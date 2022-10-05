@@ -1,6 +1,8 @@
 # godo
 Project Godo (合同計画): shared in-house object storage PoC
 
+![social preview image](https://repository-images.githubusercontent.com/546282618/c61963a5-3f26-4e24-88c8-6fd556090fce)
+
 See our [Wiki](https://github.com/optgeo/godo/wiki).
 
 ### About this project
